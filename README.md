@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app will list pokemons from the PokéApi https://pokeapi.co/. You can search pokemons by name, number or type.
 
 ## Available Scripts
 
